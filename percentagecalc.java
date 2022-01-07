@@ -1,4 +1,5 @@
 import java.util.*;
+package acrticsludge;
 public class percentagecalc {
 	public static void main(String[] args) {
 		
