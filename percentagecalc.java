@@ -3,12 +3,12 @@ package acrticsludge;
 public class percentagecalc {
 	public static void main(String[] args) {
 		
-		Scanner sc = new Scanner(System.in);
-		System.out.println("* * * * * * * * * * PERCENTAGE CALCULATOR V0.1-BETA * * * * * * * * * *");
-		System.out.println(" ");
-		System.out.println("To calculate the percentage of ALL the subjects enter: A");
-		System.out.println("To calculate the percentage of a single subjects enter: S");
-		//System.out.println("Computers: C\nMaths: M\nII Language: L\nEnglish Literature: E\nEnglish Language: F\nGeography: G\nHistory: H\nPhysics: P\nChemistry: C\nBiology: B");
+	    Scanner sc = new Scanner(System.in);
+	    System.out.println("* * * * * * * * * * PERCENTAGE CALCULATOR V0.1-BETA * * * * * * * * * *");		
+	    System.out.println(" ");
+	    System.out.println("To calculate the percentage of ALL the subjects enter: A");
+	    System.out.println("To calculate the percentage of a single subjects enter: S");
+	    //System.out.println("Computers: C\nMaths: M\nII Language: L\nEnglish Literature: E\nEnglish Language: F\nGeography: G\nHistory: H\nPhysics: P\nChemistry: C\nBiology: B");
 	    System.out.println(" ");
 	    System.out.println("* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *");
 	    char FirstInput = sc.next().charAt(0);
